@@ -1,0 +1,343 @@
+{
+  "_embedded": {
+    "marmitas": [
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "PRODUTO PERSONALIZADO",
+        "preco": 0,
+        "tipo": "PIZZA",
+        "observacao": "",
+        "codigo": 1,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/1"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/1"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "STROGONOFF DE CARNE COM CHAMPIGNON E ARROZ BRANCO",
+        "preco": 0,
+        "tipo": "PÃ‰ NA JACA",
+        "observacao": "Ingredientes: Carne, molho de tomate artesanal, creme de leite light, ketchup, arroz branco, alho, champignon, cebola, azeite extra virgem, sal rosa e temperos naturais",
+        "codigo": 2,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/2"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/2"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "FEIJOADA",
+        "preco": 0,
+        "tipo": "LINHA PRATICA",
+        "observacao": "Ingredientes: FeijÃ£o preto, lÃ© de lombo, carne seca, linguiÃ§a, cebola, alho, azeite extra virgem, sal e temperos naturais. Arroz, couve, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 3,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/3"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/3"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "LASANHA A BOLONHESA COM QUEIJO E PRESUNTO",
+        "preco": 0,
+        "tipo": "LINHA PRATICA",
+        "observacao": "Ingredientes: Massa de lasanha integral, patinho moÃ­do, queijo mussarela, presunto, molho de tomate artesanal e temperos da thai",
+        "codigo": 4,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/4"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/4"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "MEDALHÃƒO SUÃ�NO AO MOLHO BARBECUE COM ARROZ BRANCO E CREME DE MILHO",
+        "preco": 0,
+        "tipo": "LINHA PRATICA",
+        "observacao": "Ingredientes: Arroz branco, milho, leite, maisena, paleta suÃ­na e bacon com molho barbecue, cebola, alho, azeite extra virgem, sal e temperos naturai",
+        "codigo": 5,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/5"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/5"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "STROGONOFF DE FRANGO COM ARROZ BRANCO",
+        "preco": 0,
+        "tipo": "LINHA PRATICA",
+        "observacao": "Ingredientes: Frango, molho de tomate artesanal, creme de leite light, ketchup, arroz branco, alho, cebola, azeite extra virgem, sal rosa e temperos naturais",
+        "codigo": 6,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/6"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/6"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "ALMÃ”NDEGAS DE CARNE A PARMEGIANA COM ARROZ INTEGRAL E CENOURA",
+        "preco": 0,
+        "tipo": "SAUDÃ�VEL",
+        "observacao": "Ingredientes: Patinho moÃ­do, queijo mussarela, arroz integral, cenoura, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 7,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/7"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/7"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "CARNE AO MOLHO MADEIRA COM ARROZ COM BRÃ“COLIS",
+        "preco": 0,
+        "tipo": "SAUDÃ�VEL",
+        "observacao": "Ingredientes: Carne, arroz integral, brÃ³colis, molho de soja light, amido de milho, vinho tinto, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais",
+        "codigo": 8,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/8"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/8"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "FRANGO AO MOLHO MOSTARDA COM LEGUMES E ARROZ INTEGRAL",
+        "preco": 0,
+        "tipo": "LINHA PRÃ�TICA SAUDÃ�VEL",
+        "observacao": "Ingredientes: FilÃ© de frango, mostarda, milho, ervilha fresca, cenoura, brÃ³colis, couve-flor, creme de leite, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 9,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/9"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/9"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "GALINHADA COM ARROZ INTEGRAL",
+        "preco": 0,
+        "tipo": "LINHA PRÃ�TICA SAUDÃ�VEL",
+        "observacao": "Ingredientes: Sobrecoxa, arroz integral, milho, ervilha, cenoura, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 10,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/10"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/10"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "PANQUECA INTEGRAL DE AVEIA COM FRANGO E ALHO PORÃ“ AO MOLHO ARTESANAL DE TOMATES",
+        "preco": 0,
+        "tipo": "SAUDÃ�VEL",
+        "observacao": "Ingredientes: Frango, aveia, leite, ovo, farinha de trigo, alho porÃ³, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais",
+        "codigo": 11,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/11"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/11"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "STROGONOFF DE CARNE COM CHAMPIGNON E ARROZ INTEGRAL",
+        "preco": 0,
+        "tipo": "LINHA SAUDÃ�VEL",
+        "observacao": "Ingredientes: Carne, creme de leite light, ketchup, arroz integral, champignon, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais",
+        "codigo": 12,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/12"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/12"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "STROGONOFF DE FRANGO COM ARROZ INTEGRAL",
+        "preco": 0,
+        "tipo": "SAUDÃ�VEL",
+        "observacao": "Ingredientes: Frango, creme de leite light, molho de tomate artesanal, ketchup, arroz integral, cebola, azeite extra virgem, sal rosa e temperos naturais",
+        "codigo": 13,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/13"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/13"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "FRANGO Ã€ PARMEGIANA COM CENOURA REFOGADA",
+        "preco": 0,
+        "tipo": "LINHA LOW CARB",
+        "observacao": "Ingredientes: Frango, cenoura, molho de tomate artesanal, queijo muÃ§arela, cebola, azeite extra virgem, sal rosa e temperos naturais.",
+        "codigo": 14,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/14"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/14"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "FRANGO DESFIADO COM PURÃŠ DE ABÃ“BORA",
+        "preco": 0,
+        "tipo": "LOW CARB",
+        "observacao": "Ingredientes: Frango desfiado, abÃ³bora, legumes, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 15,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/15"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/15"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "LASANHA DE BERINJELA COM PATINHO MOÃ�DO",
+        "preco": 0,
+        "tipo": "LINHA LOW CARB",
+        "observacao": "Ingredientes: Carne, Berinjela, molho artesanal, cebola, azeite extra virgem, sal rosa e temperos naturais.",
+        "codigo": 16,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/16"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/16"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "LASANHA DE COUVE COM PATINHO MOÃ�DO E QUEIJO",
+        "preco": 0,
+        "tipo": "LOW CARB",
+        "observacao": "Ingredientes: Couve manteiga, carne moÃ­da, queijo mussarela, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 17,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/17"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/17"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "MIX DE LEGUMES COM PATINHO MOÃ�DO",
+        "preco": 0,
+        "tipo": "LOW CARB",
+        "observacao": "Ingredientes: Patinho moÃ­do, abobrinha, cenoura, brÃ³colis, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 18,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/18"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/18"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "SALPICÃƒO DE FRANGO",
+        "preco": 0,
+        "tipo": "LINHA LOW CARB",
+        "observacao": "Ingredientes: Frango, cenoura, ervilha fresca, milho, creme de leite light, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 19,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/19"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/19"
+          }
+        }
+      },
+      {
+        "quantidadeEmEstoque": 0,
+        "nome": "CARNE ASSADA DESFIADA COM CREME DE AIPIM",
+        "preco": 0,
+        "tipo": "MAROMBA",
+        "observacao": "Ingredientes: Carne, aipim, creme de leite light, molho de tomate artesanal, cebola, alho, azeite extra virgem, sal e temperos naturais.",
+        "codigo": 20,
+        "precoCusto": 0,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/marmitas/20"
+          },
+          "marmita": {
+            "href": "http://localhost:8080/marmitas/20"
+          }
+        }
+      }
